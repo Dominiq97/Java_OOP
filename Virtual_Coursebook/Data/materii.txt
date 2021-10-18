@@ -1,0 +1,9 @@
+1|Lb. romana
+2|Matematica
+3|Fizica
+4|Informatica
+6|Biologie
+7|Ed. fizica
+8|Economie
+9|Logica
+10|Lb. Engleza

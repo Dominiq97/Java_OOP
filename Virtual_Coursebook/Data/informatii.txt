@@ -1,0 +1,1 @@
+headerNote : id|nota|IDmaterie|dd/MM/yyyy HH:mm:ss|IDprofesor|ID elev

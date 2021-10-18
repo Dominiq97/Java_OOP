@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 13, 2015 7:57:49 PM by Hibernate Tools 3.6.0 -->
+<hibernate-mapping>
+    <class name="beans.ProfesoriMaterii" table="PROFESORI_MATERII" schema="DOM">
+        <id name="id" type="int">
+            <column name="ID" />
+            <generator class="assigned" />
+        </id>
+        <property name="idProfesor" type="java.lang.Integer">
+            <column name="ID_PROFESOR" />
+        </property>
+        <property name="idMaterie" type="java.lang.Integer">
+            <column name="ID_MATERIE" />
+        </property>
+    </class>
+</hibernate-mapping>
